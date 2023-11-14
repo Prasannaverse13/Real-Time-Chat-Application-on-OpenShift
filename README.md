@@ -1,10 +1,8 @@
-# RTC - Real Time Chat
+#Real-Time Chat Application on OpenShift
 
 Crafted with NodeJS, ExpressJS and Socket.io.
 
 ## Getting started
-
-[Download the application](https://github.com/simonewebdesign/real-time-web-chat/archive/master.zip), or clone the repository:
 
     $ git clone https://github.com/simonewebdesign/real-time-web-chat.git rtwc
 
@@ -14,8 +12,6 @@ Go into the folder and start the server:
     $ npm start
 
 ## Documentation
-
-[See here](http://rtwc-simone.rhcloud.com/docs).
 
 Repo layout
 -----------
