@@ -11,8 +11,6 @@ Go into the folder and start the server:
     $ cd rtwc
     $ npm start
 
-## Documentation
-
 Repo layout
 -----------
 
