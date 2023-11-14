@@ -1,5 +1,7 @@
 #Real-Time Chat Application on OpenShift
 
+![Screenshot (410)](https://github.com/Prasannaverse13/Real-Time-Chat-Application-on-OpenShift/assets/116105281/c92dc3d5-477c-4917-9ad5-e3a25dfc0231)
+
 Crafted with NodeJS, ExpressJS and Socket.io.
 
 ## Getting started
