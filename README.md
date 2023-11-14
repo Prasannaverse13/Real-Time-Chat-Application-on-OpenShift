@@ -104,5 +104,3 @@ If you want Jasmine to automatically rerun the whole test suite when a file chan
     $ jasmine-node . --verbose --runWithRequireJs --requireJsSetup spec/requirejs-setup.js --autotest --watch spec
 
 --
-
-This application is Open Source software released under the [MIT license](http://opensource.org/licenses/MIT). Kudos to [Nettuts+](http://net.tutsplus.com/tutorials/javascript-ajax/real-time-chat-with-nodejs-socket-io-and-expressjs/) and [OpenShift](https://www.openshift.com/).
